@@ -8,3 +8,5 @@ test
 
 
 test分支功能
+
+reset --soft
