@@ -7,8 +7,12 @@
 test
 
 
+
 test分支功能
 
 reset --soft
 
-1
+
+666666
+
+
